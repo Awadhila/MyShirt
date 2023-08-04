@@ -1,4 +1,4 @@
-# MyShirt Web App
+# MyShirt
 
 **Description:** The MyShirt web app is an immersive and interactive application that allows users to create personalized shirts and caps by selecting various parameters such as color, pattern, and adding custom images. Built on the React framework, the web app utilizes Tailwind CSS for responsive styling and Three.js for advanced 3D capabilities.
 
